@@ -5,6 +5,6 @@ An auto clicker that is undetected by some anti cheats designed to take a maximu
 
 # INSTRUCTIONS
 First, input the minimum and maximum values (INTEGERS)
-Next, click "Load Settings
+Next, click "Load Settings"
 Lastly, you should see the preview of the cps. Now whenever you click the hotkey, it should start clicking. To turn the autoclicker off, simply press the hotkey again or press the stop button. To turn it back on, repress the hotkey or click the start button then repress the hotkey.
 
