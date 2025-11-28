@@ -7,5 +7,3 @@
 3. [ANY] usage with this app that does cause any form of harm or violation shall [NOT] be pinned on the developers
 
 
-# MARKETING
-1. This does say in the main "ReadMe.md" that this can bypass some anticheats. While true, this is a marketing technique and a mere concept. [THIS DOES NOT MEAN YOU HAVE THE AUTHORITY TO GO INTO GAMES CHEATING TO CAUSE MALICE WITH THIS TOOL]
