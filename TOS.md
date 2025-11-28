@@ -2,8 +2,10 @@
 [BY DOWNLOADING THIS APP, YOU HAVE AGREED TO FOLLOW THESE TERMS OF SERVICE]
 
 # USAGE 
-1. This is not to be used in a way to cause [ANY] harm or malice
-2. This is not to be used in a way that breaks any terms of service/usage on any game,website,or app that you have access to
-3. [ANY] usage with this app that does cause any form of harm or violation shall [NOT] be pinned on the developers
+This tool must not be used to cause harm, disruptions, or malicious actions.
+
+You are responsible for ensuring that the use of this tool complies with the terms of service or usage policies of any software, game, website, or platform you interact with.
+
+Any misuse or violations caused by using this tool are the sole responsibility of the user, not the developer(s).
 
 
