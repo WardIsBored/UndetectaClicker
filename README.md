@@ -4,7 +4,8 @@ An auto clicker that is light-weight and customizable designed to take a maximum
 # WARNING
 By downloading this, you are agreeing to the terms of service which can be found on: TOS.md
 
-<img width="897" height="464" alt="Screenshot 2025-11-26 214236" src="https://github.com/user-attachments/assets/33279213-e960-4759-9f5e-32210d88362b" />
+<img width="898" height="348" alt="Screenshot 2025-11-27 200802" src="https://github.com/user-attachments/assets/1318612a-a39f-4917-bdf8-ede3636de1e3" />
+
 
 # INSTRUCTIONS
 First, input the minimum and maximum values (INTEGERS)
